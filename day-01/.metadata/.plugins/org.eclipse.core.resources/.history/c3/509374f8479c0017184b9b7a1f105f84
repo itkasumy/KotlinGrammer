@@ -1,0 +1,4 @@
+fun main(args: Array<String>) {
+	var i = 8
+	i = 9999999999999999
+}

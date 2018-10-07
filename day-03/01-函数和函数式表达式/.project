@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>01-函数和函数式表达式</name>
+	<comment>01-函数和函数式表达式</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.jetbrains.kotlin.ui.kotlinBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.jetbrains.kotlin.core.kotlinNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kotlin_bin</name>
+			<type>2</type>
+			<locationURI>org.jetbrains.kotlin.core.filesystem:/01-%E5%87%BD%E6%95%B0%E5%92%8C%E5%87%BD%E6%95%B0%E5%BC%8F%E8%A1%A8%E8%BE%BE%E5%BC%8F/kotlin_bin</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+	var lists = listOf("Âò´óÃ×", "Âò¼¦µ°", "Âò¶ÅÀÙË¹", "Âò±ùä¿ÁÜ")
+	for(list in lists) {
+		println(list)
+	}
+}

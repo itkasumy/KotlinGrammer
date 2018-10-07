@@ -1,0 +1,13 @@
+INDEX VERSION 1.130+H:\06-kotlin\day-02\.metadata\.plugins\org.eclipse.jdt.core
+531305661.index
+2178526128.index
+3366059107.index
+313302826.index
+460584752.index
+2547771491.index
+3147260965.index
+705098530.index
+2662430478.index
+3635142022.index
+1630785555.index
+1175921155.index

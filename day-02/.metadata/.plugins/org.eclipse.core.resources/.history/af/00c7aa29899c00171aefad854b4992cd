@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+	var str1 = "张三"
+	var str2 = "张三"
+	println(str1 == str2)
+	println(str1.equals(str2))
+}

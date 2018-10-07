@@ -1,0 +1,8 @@
+fun main(args: Array<String>) {
+	var nums1 = 1 until 100
+	for(num in nums1) {
+		println(num)
+	}
+	
+	var nums2 = 1 .. 12
+}

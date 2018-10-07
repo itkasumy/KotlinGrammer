@@ -1,0 +1,14 @@
+class StaticCode {
+    static {
+        System.out.println("This is a Static Code");
+    }
+}
+
+class StaticCodeDemo {
+	static {
+		System.out.println("a");
+	}
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}

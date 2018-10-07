@@ -1,0 +1,11 @@
+fun main(args: Array<String>) {
+	var a = 12
+	var b = "12"
+	a = b.toInt()
+	b = a.toString()
+	
+	/*var c = "3a"
+	a = c.toInt()*/
+	
+	println(a)
+}

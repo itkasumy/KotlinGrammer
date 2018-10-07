@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+H:\06-kotlin\day-06\.metadata\.plugins\org.eclipse.jdt.core

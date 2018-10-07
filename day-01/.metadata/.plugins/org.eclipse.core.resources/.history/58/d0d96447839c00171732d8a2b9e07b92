@@ -1,0 +1,17 @@
+fun main(args: Array<String>) {
+	println(sayHello("ksm"))
+	println(checkAge(19))
+	saveLog(18)
+}
+
+fun sayHello(name:String):String {
+	return "hello " + name
+}
+
+fun checkAge(age:Int):Boolean {
+	return age > 18
+}
+
+fun saveLog(logLevel:Int) {
+	println(logLevel)
+}

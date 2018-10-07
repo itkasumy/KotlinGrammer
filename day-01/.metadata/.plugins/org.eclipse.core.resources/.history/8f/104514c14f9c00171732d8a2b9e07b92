@@ -1,0 +1,16 @@
+fun main(args: Array<String>) {
+	print1Star()
+	println("  ***")
+	println(" *****")
+	println("*******")
+	println(" *****")
+	println("  ***")
+	print1Star()
+}
+
+fun print1Star() {
+	println("   *")
+}
+fun print3Star() {
+	println("  ***")
+}

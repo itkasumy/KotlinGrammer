@@ -1,0 +1,8 @@
+fun main(args: Array<String>) {
+	var i:Byte = 18
+	i = 19
+//	i = 9999999999999999
+	var j:Long = 9999999999999999
+	var k:String = "hello"
+	println(i + j)
+}

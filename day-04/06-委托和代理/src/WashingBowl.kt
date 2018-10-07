@@ -1,0 +1,3 @@
+interface WashingBowl {
+    fun washingBowl()
+}

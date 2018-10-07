@@ -1,0 +1,13 @@
+fun main(args: Array<String>) {
+	var num = 5
+	var res = fact(num)
+	println(res)
+}
+
+fun fact(num:Int):Int {
+	if(num == 1) {
+		return 1
+	} else {
+		return num * fact(num - 1)
+	}
+}

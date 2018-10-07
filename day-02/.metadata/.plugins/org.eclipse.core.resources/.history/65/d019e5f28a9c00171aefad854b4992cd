@@ -1,0 +1,10 @@
+fun heat(str:String):String {
+	return "ÈÈ" + str
+}
+
+fun main(args: Array<String>) {
+	var res1 = heat("Ë®")
+	println(res1)
+	var res2 = heat("¹·")
+	println(res2)
+}

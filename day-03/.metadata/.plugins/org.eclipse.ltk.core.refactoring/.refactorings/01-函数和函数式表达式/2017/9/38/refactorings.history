@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01-函数和函数式表达式/src/Demo1.kt&apos; to &apos;Demo01.kt&apos;" description="Rename resource &apos;Demo1.kt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Demo1.kt" name="Demo01.kt" stamp="1505803919256" updateReferences="true"/>
+</session>

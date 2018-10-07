@@ -1,0 +1,13 @@
+fun main(args: Array<String>) {
+	val aByte:Byte = Byte.MAX_VALUE
+	val bByte:Byte = Byte.MIN_VALUE
+	
+	println(aByte)
+	println(bByte)
+	
+	val cInt:Int = Int.MAX_VALUE
+	val dInt:int = Int.MIN_VALUE
+	
+	println(cInt)
+	println(dInt)
+}
